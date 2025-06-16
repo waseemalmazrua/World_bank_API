@@ -26,6 +26,14 @@
 🛠 الأدوات المستخدمة: Python – Pandas – Matplotlib – World Bank API – Request
 
 📎 المصدر: https://data.worldbank.org/indicator
+
+
+                                                                                                                           https://data.worldbank.org/indicator/SP.DYN.IMRT.IN?locations=SA&view=chart
+                                                                                                                           https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=SA&view=chart
+                                                                                                                                  https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS?locations=SA
+                                                                                                                                     https://data.worldbank.org/indicator/SP.DYN.TFRT.IN?locations=SA
+
+
 📄 الرخصة: Creative Commons Attribution 4.0 (CC-BY 4.0)
 
 👨‍💻 تم تنفيذ هذا التحليل بواسطة: وسيم المزروع 🔗 LinkedIn –[ Waseem Almazrua](https://www.linkedin.com/in/waseemalmazrua)
